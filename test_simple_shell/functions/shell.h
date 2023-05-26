@@ -42,7 +42,7 @@ extern char *head;
 int _atoi(char *s);
 char *_strcpy(char *dest, char *src);
 char *_memcpy(char *dest, char *src, unsigned int n);
-char *_strcat(char *dest, char *src);
+char *_strcat(char *s1, char *s2);
 int _strlen(char *s);
 int _putchar(char ch);
 void _puts(char *ch);
